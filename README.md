@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @cwoods7
-- 👀 I’m interested in music and pretty much anything that most people would consider geeky.
-- 🌱 I’m currently majoring in electrical engineering at Rochester Institute of Technology.
+3rd year electrical engineering major at RIT
 
 
 <!---
