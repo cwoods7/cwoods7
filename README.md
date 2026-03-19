@@ -1,4 +1,4 @@
-3rd year electrical engineering major at RIT
+5th year electrical engineering major at RIT
 
 
 <!---
